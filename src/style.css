@@ -1,0 +1,43 @@
+body{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* .Header{
+
+   text-align: center;
+}
+
+
+ */
+
+
+.todo-container{
+    width: 300px;
+    padding: 10px 20px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+
+.todo-Item{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.Add-Button{
+
+    width: 100%;
+    padding:10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
