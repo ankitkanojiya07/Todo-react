@@ -2,7 +2,6 @@ import React from "react";
 import Header from "./components/Header";
 import ListItem from "./components/ListItem";
 import Button from "./components/Button";
-import Counter from "./components/Counter";
 import "./style.css"
 
 const App = () =>{
