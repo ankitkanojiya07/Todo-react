@@ -33,3 +33,6 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/ankitkanojiya07/Todo-react.git
+## Technologies used 
+   
+![Screenshot (9)](https://github.com/user-attachments/assets/58594f4c-3478-4c15-b9b1-7ca1482b4112)
